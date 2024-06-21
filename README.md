@@ -5,7 +5,7 @@
 * install & run: just download the project and run it from your terminal
   * ('python birds.py)
   * output will be the 10 latest bird observations
-## code overview
+## Code overview
 * birds.py: calls the EBird API, grabs data, stores it in our local database, and prints observations
 * bird_database.db: the SQL database where we store the observations (there are a *LOT*)
 * Output: The default is to only output the first 10 latest observations but you can change the SQL query in birds.py
