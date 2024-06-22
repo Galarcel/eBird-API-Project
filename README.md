@@ -14,4 +14,5 @@ Link to the EBird API used in this project:
 https://documenter.getpostman.com/view/664302/S1ENwy59
 
 ![Example Workflow](https://github.com/Galarcel/eBird-API-Project/actions/workflows/stylecheck.yaml/badge.svg)
+![Example Workflow 2](https://github.com/Galarcel/eBird-API-Project/actions/workflows/unittests.yaml/badge.svg)
 
