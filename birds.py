@@ -38,7 +38,7 @@ def get_recent_observations(region_code, days_back=14, hotspot=False, include_pr
 # *******************************************************************
 if __name__ == "__main__":
   region_code = 'US-CA'  # Example region code for California
-  api_key = 'epcc2hvf2vd7'  # authentication is my personal API key from eBird
+  api_key = '############'  # authentication is my personal API key from eBird
 
   # testing: check for valid json file of observations (check eBird for sample return value from get request)
   # check that outupt from data engine is correct based on requirements and SQL query specifications.
